@@ -10,7 +10,7 @@ License: URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 You can simply put a "[list]" short code, to list the title of the latest article (link with) and the front page of your blog, sidebar, footer. Set category and custom post type, taxonomy also other it is also possible.
 
-This plugin published on GitHub.(https://github.com/marushu/anywhere-list-shortcode)
+[This plugin published on GitHub.](https://github.com/marushu/anywhere-list-shortcode)
 
 = Fetures =
 WordPress post retrieve and list.
