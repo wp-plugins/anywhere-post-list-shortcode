@@ -5,7 +5,7 @@ Requires at least: 3.9.1
 Tested up to: 3.9.1
 Stable tag: trunk
 License: GPLv2 or later
-License: URI: http://www.gnu.org/license/gpl-2.0html
+License: URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 You can simply put a "[list]" short code, to list the title of the latest article (link with) and the front page of your blog, sidebar, footer. Set category and custom post type, taxonomy also other it is also possible.
