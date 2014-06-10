@@ -46,7 +46,7 @@ Parameters(Main parameters, refer to the get_posts of Codex.)
 - <?php echo do_shortcode( '[list]' ); ?> at template.
 
 = Other =
-It can be also be used in widget :)
+It can also be used in widget :)
 
 == Installation ==
 - A plug-in installation screen is displayed on the WordPress admin panel.
