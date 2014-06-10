@@ -17,15 +17,25 @@ WordPress post retrieve and list.
 Purpose to be output by the number specified latest posts mainly is suitable.
 
 Parameters(Main parameters, refer to the get_posts of Codex.)
+
 - post_type: WordPress post type. Default is post.
+
 - cat_name: Category slug.
+
 - num: Number: The number of posts you want to output.
+
 - class: Unorderd list's class name. maybe easy controllable :)
+
 - orderby: Post's order.
+
 - order: Ascending Descending.
+
 - length: If you want to adjust the length of post title
+
 - end_of_title: Specify a string to be appended to the end of the article. This must be required for 'length'.
+
 - taxonomy: If you want to output by specifying a custom taxonomy.
+
 - term: Required for 'taxonomy'.
 
 = Example =
