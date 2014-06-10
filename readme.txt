@@ -39,16 +39,20 @@ Parameters(Main parameters, refer to the get_posts of Codex.)
 - term: Required for 'taxonomy'.
 
 = Example =
-[list] most simple.
-[list post_type=post cat_name=news num=5 class=newslist] at visual editor.
-<?php echo do_shortcode( '[list]' ); ?> at template.
+- [list] most simple.
+
+- [list post_type=post cat_name=news num=5 class=newslist] at visual editor.
+
+- <?php echo do_shortcode( '[list]' ); ?> at template.
 
 = Other =
 It can be also be used in widget :)
 
 == Installation ==
 - A plug-in installation screen is displayed on the WordPress admin panel.
+
 - It installs it in `wp-content/plugins`.
+
 - The plug-in is made effective.
 
 == Changelog ==
