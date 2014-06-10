@@ -43,7 +43,7 @@ Parameters(Main parameters, refer to the get_posts of Codex.)
 
 - [list post_type=post cat_name=news num=5 class=newslist] at visual editor.
 
-- <?php echo do_shortcode( '[list]' ); ?> at template.
+- `<?php echo do_shortcode( '[list]' ); ?>` at template.
 
 = Other =
 It can also be used in widget :)
