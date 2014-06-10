@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Anywhere Post List Shortcode
-Version: 0.0.5
+Version: 0.1
 Plugin URI: http://hibou-web.com
 Description: You can simply put a "[list]" short code, to list the title of the latest article (link with) and the front page of your blog, sidebar, footer. Set category and custom post type, taxonomy also other it is also possible.
 Author: Shuhei Nishimura
