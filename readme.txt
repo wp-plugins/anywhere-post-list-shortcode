@@ -16,7 +16,8 @@ You can simply put a "[list]" short code, to list the title of the latest articl
 WordPress post retrieve and list.
 Purpose to be output by the number specified latest posts mainly is suitable.
 
-Parameters(Main parameters, (refer to the get_posts of Codex)[http://codex.wordpress.org/Template_Tags/get_posts].)
+= Parameters =
+*Main parameters, (refer to the get_posts of Codex)[http://codex.wordpress.org/Template_Tags/get_posts] .*
 
 - post_type: WordPress post type. Default is post.  
 - cat_name: Category slug.  
