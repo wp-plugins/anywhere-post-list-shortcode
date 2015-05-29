@@ -13,9 +13,9 @@ List the article :)
 [This plugin published on GitHub.](https://github.com/marushu/anywhere-list-shortcode)
 
 = Fetures =
-WordPress post retrieve and list.
-Purpose to be output by the number specified latest posts mainly is suitable.
-Added filter( anywhter_before_list_tag, anywhter_list_content, anywhter_after_list_tag ).
+- WordPress post retrieve and list.
+- Purpose to be output by the number specified latest posts mainly is suitable.
+- 【NEW 0.2】Added filter( anywhter_before_list_tag, anywhter_list_content, anywhter_after_list_tag ).
 
 You can simply put a "[list]" short code, to list the title of the latest article (link with) and the front page of your blog, sidebar, footer. Set category and custom post type, taxonomy also other it is also possible.
 
