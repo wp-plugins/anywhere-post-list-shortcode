@@ -39,7 +39,7 @@ function anywhere_list( $atts ) {
 		'no_filter'			=>	false,
 	), $atts ) );
 
-	if( $post_type === 'post' ) {
+	if( $post_type ) {
 		$args = array(
 		  'post_type'				=>	$post_type,
 		  'posts_per_page'	=>	$num,
