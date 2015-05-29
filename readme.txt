@@ -2,7 +2,7 @@
 Contributors: marushu
 Tags: post, post type
 Requires at least: 3.9.1
-Tested up to: 3.9.1
+Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,6 +15,7 @@ List the article :)
 = Fetures =
 WordPress post retrieve and list.
 Purpose to be output by the number specified latest posts mainly is suitable.
+Added filter( anywhter_before_list_tag, anywhter_list_content, anywhter_after_list_tag ).
 
 You can simply put a "[list]" short code, to list the title of the latest article (link with) and the front page of your blog, sidebar, footer. Set category and custom post type, taxonomy also other it is also possible.
 
@@ -31,6 +32,9 @@ Main parameters, [refer to the get_posts of Codex](http://codex.wordpress.org/Te
 - end_of_title: Specify a string to be appended to the end of the article. This must be required for 'length'.  
 - taxonomy: If you want to output by specifying a custom taxonomy.  
 - term: Required for 'taxonomy'.  
+- more: read more link text.
+- post_format: post format
+- no_filter(boolean): If you are creating a filter hook , you are able to set not affected. :)
 
 = Example =
 - [list] most simple.  
@@ -46,6 +50,10 @@ It can also be used in widget :)
 - The plug-in is made effective.  
 
 == Changelog ==
+= 0.2 =
+- add filter
+- no_filter option
+
 = 0.1 =
 - First release :)  
 
